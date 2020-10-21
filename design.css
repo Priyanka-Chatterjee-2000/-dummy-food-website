@@ -90,17 +90,18 @@ margin-right:50px;
 color:black;
 padding:80px 0;
 }
-.pp{
+.pip{
 text-align:center;
 font-size:180%;
 text-transform:uppercase;
 letter-spacing:0.1vw;
 word-spacing:0.2vw;
 }
-.pp:after{
+.pip:after{
 display:block;
 height:2px;
 background-color:#22a6b3;
+content:"";
 width:10vw;
 margin:0 auto;
 margin-top:3vw;
